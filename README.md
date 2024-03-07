@@ -14,4 +14,4 @@ Welcome to the E-Commerce Sales Dashboard Analysis project! This repository cont
 
 - **Product Analysis:** [Describe the key features and insights from the product analysis section.]
 
-![Product Analysis](Product Analysis.png)
+![Product Analysis](Overview_2.png)
