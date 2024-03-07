@@ -25,3 +25,4 @@ Welcome to the E-Commerce Sales Dashboard Analysis project! This repository cont
   3. **Sales Growth Trends:**
       - Uncover products experiencing noteworthy sales growth or identify those facing declining trends, allowing for strategic inventory and marketing decisions.
 ![Product Analysis](Product_Analysis.png)
+
