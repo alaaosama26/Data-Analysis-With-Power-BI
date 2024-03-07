@@ -1,7 +1,7 @@
 # E-Commerce Sales Report Analysis
 ## Overview
 Welcome to the E-Commerce Sales Dashboard Analysis project! This repository contains a comprehensive report designed for analyzing and visualizing key performance indicators (KPIs) related to e-commerce sales data. The project focuses on providing actionable insights to enhance decision-making processes for businesses operating in the e-commerce sector.
-![Overview Dashboard](images/overview_dashboard.png)
+![Overview Dashboard](Overview.png)
 
 
 ## Features
