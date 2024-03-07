@@ -10,8 +10,8 @@ Welcome to the E-Commerce Sales Dashboard Analysis project! This repository cont
 - **Sales Performance Metrics:** Gain valuable insights into sales performance through charts and graphs depicting revenue trends, top-selling products, and customer acquisition metrics.
 - **Customer Behavior Analysis:** Understand customer behavior and preferences with visualizations showcasing customer demographics, purchase patterns, and product affinity.
 
-![Customer Analysis](images/customer_analysis.png)
+![Customer Analysis](Customer Analyis.png)
 
 - **Product Analysis:** [Describe the key features and insights from the product analysis section.]
 
-![Product Analysis](images/product_analysis.png)
+![Product Analysis](Product Analysis.png)
